@@ -6,7 +6,7 @@ The application uses a **MySQL database** to store user accounts and mood entrie
 
 It supports two roles:
 - **Regular User** – manages only their own moods.  
-- **Administrator** – manages users and can generate reports.  
+- **Administrator** – manages users.  
 
 ---
 
